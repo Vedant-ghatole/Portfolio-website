@@ -1,0 +1,96 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+
+  --color-nature-50: #f2f8f5;
+  --color-nature-100: #e0efe6;
+  --color-nature-200: #c2ded0;
+  --color-nature-300: #97c5b2;
+  --color-nature-400: #68a68f;
+  --color-nature-500: #468b73;
+  --color-nature-600: #346d5a;
+  --color-nature-700: #2b584a;
+  --color-nature-800: #24483d;
+  --color-nature-900: #1e3b33;
+  --color-nature-950: #0f201c;
+
+  --color-wood-50: #fdf8f6;
+  --color-wood-100: #f2e8e5;
+  --color-wood-200: #eaddd7;
+  --color-wood-300: #e0cec5;
+  --color-wood-400: #d2bbae;
+  --color-wood-500: #a37b67;
+  --color-wood-600: #8c6450;
+  --color-wood-700: #714e3d;
+  --color-wood-800: #5e4236;
+  --color-wood-900: #4e382e;
+  --color-wood-950: #2a1d17;
+}
+
+@layer base {
+  body {
+    @apply bg-[#0f1712] text-white overflow-x-hidden selection:bg-nature-500/30 selection:text-white antialiased;
+  }
+}
+
+/* Custom scrollbar optimized for Lenis (often hidden or styled minimally) */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0f1712;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2b584a;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #468b73;
+}
+
+/* Base animations */
+@keyframes float {
+
+  0%,
+  100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+
+  50% {
+    transform: translateY(-15px) rotate(3deg);
+  }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+.animate-float-delayed {
+  animation: float 6s ease-in-out infinite 3s;
+}
+
+/* Lenis recommended base styles */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+.lenis.lenis-scrolling iframe {
+  pointer-events: none;
+}
