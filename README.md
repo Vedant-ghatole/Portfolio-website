@@ -7,11 +7,6 @@ This project represents my journey in **Computer Engineering, AI, and Software D
 
 ---
 
-## 🚀 Live Demo
-🔗 https://your-portfolio-link.com  
-
----
-
 ## 🧠 Concept
 
 This portfolio is designed as a **storytelling experience**, where each section represents a stage of growth:
@@ -59,24 +54,8 @@ This portfolio is designed as a **storytelling experience**, where each section 
 /public
 /utils
 
-
 ---
 
-## 📦 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/portfolio.git
-cd portfolio
-
-Install dependencies:
-
-npm install
-
-Run the development server:
-
-npm run dev
 🎯 Key Sections
 🌱 Hero
 Introduction, tagline, and CTA
@@ -96,21 +75,9 @@ Internships and roles
 Career goals and interests
 🌐 Contact
 Email, GitHub, LinkedIn
-📊 Stats
-💻 1200+ Code Commits
-📦 15+ Projects
-🚀 10+ Hackathons
-🎨 UI/UX Highlights
-Glassmorphism design
-Gradient glow effects
-Scroll-based animations
-Card hover interactions
-Clean typography & spacing
-🔮 Future Improvements
-Add blog section
-Integrate backend (contact form)
-Improve 3D animations
-Add dark/light theme toggle
+
+---
+
 🤝 Connect with Me
 📧 Email: vedantghatole80@gmail.com
 💻 GitHub: https://github.com/Vedant-ghatole
