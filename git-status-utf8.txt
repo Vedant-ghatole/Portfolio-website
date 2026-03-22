@@ -1,0 +1,33 @@
+﻿On branch main
+Your branch is up to date with 'origin/main'.
+
+You have unmerged paths.
+  (fix conflicts and run "git commit")
+  (use "git merge --abort" to abort the merge)
+
+Changes to be committed:
+	new file:   next-env.d.ts
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+	both added:      src/app/globals.css
+	both added:      src/app/layout.tsx
+	both added:      src/components/SectionContainer.tsx
+	both added:      src/components/TreeLine.tsx
+	both added:      src/sections/Section10_Contact.tsx
+	both added:      src/sections/Section1_Seed.tsx
+	both added:      src/sections/Section2_Roots.tsx
+	both added:      src/sections/Section3_Sprout.tsx
+	both added:      src/sections/Section4_Plant.tsx
+	both added:      src/sections/Section5_GithubBranches.tsx
+	both added:      src/sections/Section6_Achievements.tsx
+	both added:      src/sections/Section7_Experience.tsx
+	both added:      src/sections/Section8_PresentTree.tsx
+	both added:      src/sections/Section9_FutureSky.tsx
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	git-status.txt
+	tsc-errors-utf8.txt
+	tsc-errors.txt
+

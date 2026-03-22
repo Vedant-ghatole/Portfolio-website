@@ -1,0 +1,311 @@
+﻿src/components/SectionContainer.tsx(11,1): error TS1185: Merge conflict marker encountered.
+src/components/SectionContainer.tsx(12,10): error TS17008: JSX element 'section' has no corresponding closing tag.
+src/components/SectionContainer.tsx(15,1): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/components/SectionContainer.tsx(15,2): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/components/SectionContainer.tsx(15,3): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/components/SectionContainer.tsx(15,4): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/components/SectionContainer.tsx(15,5): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/components/SectionContainer.tsx(15,6): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/components/SectionContainer.tsx(15,7): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/components/SectionContainer.tsx(19,1): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/components/SectionContainer.tsx(20,1): error TS1005: '</' expected.
+src/components/TreeLine.tsx(14,1): error TS1185: Merge conflict marker encountered.
+src/components/TreeLine.tsx(33,1): error TS1185: Merge conflict marker encountered.
+src/components/TreeLine.tsx(41,1): error TS1185: Merge conflict marker encountered.
+src/components/TreeLine.tsx(47,1): error TS1185: Merge conflict marker encountered.
+src/components/TreeLine.tsx(49,1): error TS1185: Merge conflict marker encountered.
+src/components/TreeLine.tsx(51,1): error TS1185: Merge conflict marker encountered.
+src/components/TreeLine.tsx(56,1): error TS1185: Merge conflict marker encountered.
+src/components/TreeLine.tsx(58,1): error TS1185: Merge conflict marker encountered.
+src/components/TreeLine.tsx(59,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section10_Contact.tsx(4,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section10_Contact.tsx(8,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section10_Contact.tsx(12,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section10_Contact.tsx(23,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section10_Contact.tsx(32,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section10_Contact.tsx(33,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section10_Contact.tsx(36,9): error TS2657: JSX expressions must have one parent element.
+src/sections/Section10_Contact.tsx(36,191): error TS1005: '</' expected.
+src/sections/Section10_Contact.tsx(38,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section10_Contact.tsx(39,63): error TS1005: '...' expected.
+src/sections/Section10_Contact.tsx(40,13): error TS1003: Identifier expected.
+src/sections/Section10_Contact.tsx(48,14): error TS17008: JSX element 'motion.div' has no corresponding closing tag.
+src/sections/Section10_Contact.tsx(181,1): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section10_Contact.tsx(181,2): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section10_Contact.tsx(181,3): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section10_Contact.tsx(181,4): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section10_Contact.tsx(181,5): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section10_Contact.tsx(181,6): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section10_Contact.tsx(181,7): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section10_Contact.tsx(185,15): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/sections/Section10_Contact.tsx(185,18): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section10_Contact.tsx(187,1): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/sections/Section10_Contact.tsx(188,1): error TS1005: ')' expected.
+src/sections/Section10_Contact.tsx(188,1): error TS1005: '</' expected.
+src/sections/Section1_Seed.tsx(4,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section1_Seed.tsx(17,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section1_Seed.tsx(23,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section1_Seed.tsx(30,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section1_Seed.tsx(105,1): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section1_Seed.tsx(105,2): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section1_Seed.tsx(105,3): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section1_Seed.tsx(105,4): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section1_Seed.tsx(105,5): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section1_Seed.tsx(105,6): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section1_Seed.tsx(105,7): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section1_Seed.tsx(111,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section1_Seed.tsx(144,21): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section1_Seed.tsx(147,1): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section1_Seed.tsx(147,2): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section1_Seed.tsx(147,3): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section1_Seed.tsx(147,4): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section1_Seed.tsx(147,5): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section1_Seed.tsx(147,6): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section1_Seed.tsx(147,7): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section1_Seed.tsx(150,26): error TS1005: '</' expected.
+src/sections/Section1_Seed.tsx(152,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section1_Seed.tsx(153,114): error TS1005: '...' expected.
+src/sections/Section1_Seed.tsx(154,14): error TS1005: '...' expected.
+src/sections/Section1_Seed.tsx(171,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section1_Seed.tsx(184,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section1_Seed.tsx(186,9): error TS1003: Identifier expected.
+src/sections/Section1_Seed.tsx(186,15): error TS1109: Expression expected.
+src/sections/Section1_Seed.tsx(186,17): error TS1161: Unterminated regular expression literal.
+src/sections/Section1_Seed.tsx(187,5): error TS1128: Declaration or statement expected.
+src/sections/Section1_Seed.tsx(188,1): error TS1128: Declaration or statement expected.
+src/sections/Section2_Roots.tsx(6,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section2_Roots.tsx(43,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section2_Roots.tsx(49,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section2_Roots.tsx(59,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section2_Roots.tsx(127,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section2_Roots.tsx(249,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section3_Sprout.tsx(6,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section3_Sprout.tsx(31,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section3_Sprout.tsx(39,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section3_Sprout.tsx(49,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section3_Sprout.tsx(54,77): error TS17008: JSX element 'div' has no corresponding closing tag.
+src/sections/Section3_Sprout.tsx(67,14): error TS17008: JSX element 'motion.div' has no corresponding closing tag.
+src/sections/Section3_Sprout.tsx(152,1): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section3_Sprout.tsx(152,2): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section3_Sprout.tsx(152,3): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section3_Sprout.tsx(152,4): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section3_Sprout.tsx(152,5): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section3_Sprout.tsx(152,6): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section3_Sprout.tsx(152,7): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section3_Sprout.tsx(157,1): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/sections/Section3_Sprout.tsx(158,1): error TS1005: '</' expected.
+src/sections/Section4_Plant.tsx(8,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section4_Plant.tsx(15,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section4_Plant.tsx(21,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section4_Plant.tsx(34,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section4_Plant.tsx(35,91): error TS17008: JSX element 'div' has no corresponding closing tag.
+src/sections/Section4_Plant.tsx(46,14): error TS17008: JSX element 'div' has no corresponding closing tag.
+src/sections/Section4_Plant.tsx(57,26): error TS17008: JSX element 'motion.div' has no corresponding closing tag.
+src/sections/Section4_Plant.tsx(65,30): error TS17008: JSX element 'div' has no corresponding closing tag.
+src/sections/Section4_Plant.tsx(70,34): error TS17008: JSX element 'h3' has no corresponding closing tag.
+src/sections/Section4_Plant.tsx(98,30): error TS17008: JSX element 'div' has no corresponding closing tag.
+src/sections/Section4_Plant.tsx(104,1): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section4_Plant.tsx(104,2): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section4_Plant.tsx(104,3): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section4_Plant.tsx(104,4): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section4_Plant.tsx(104,5): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section4_Plant.tsx(104,6): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section4_Plant.tsx(104,7): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section4_Plant.tsx(110,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section4_Plant.tsx(114,1): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section4_Plant.tsx(114,2): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section4_Plant.tsx(114,3): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section4_Plant.tsx(114,4): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section4_Plant.tsx(114,5): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section4_Plant.tsx(114,6): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section4_Plant.tsx(114,7): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section4_Plant.tsx(117,39): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/sections/Section4_Plant.tsx(118,35): error TS17002: Expected corresponding JSX closing tag for 'span'.
+src/sections/Section4_Plant.tsx(119,29): error TS1005: ')' expected.
+src/sections/Section4_Plant.tsx(127,1): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/sections/Section4_Plant.tsx(128,1): error TS1005: '</' expected.
+src/sections/Section5_GithubBranches.tsx(31,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section5_GithubBranches.tsx(33,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section5_GithubBranches.tsx(37,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section5_GithubBranches.tsx(43,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section5_GithubBranches.tsx(62,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section5_GithubBranches.tsx(81,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section5_GithubBranches.tsx(89,9): error TS2657: JSX expressions must have one parent element.
+src/sections/Section5_GithubBranches.tsx(91,84): error TS1005: '</' expected.
+src/sections/Section5_GithubBranches.tsx(92,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section5_GithubBranches.tsx(93,17): error TS1003: Identifier expected.
+src/sections/Section5_GithubBranches.tsx(106,1): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section5_GithubBranches.tsx(106,2): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section5_GithubBranches.tsx(106,3): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section5_GithubBranches.tsx(106,4): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section5_GithubBranches.tsx(106,5): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section5_GithubBranches.tsx(106,6): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section5_GithubBranches.tsx(106,7): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section5_GithubBranches.tsx(108,15): error TS17002: Expected corresponding JSX closing tag for 'p'.
+src/sections/Section5_GithubBranches.tsx(110,13): error TS1005: ')' expected.
+src/sections/Section5_GithubBranches.tsx(111,77): error TS1005: '</' expected.
+src/sections/Section5_GithubBranches.tsx(112,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section5_GithubBranches.tsx(114,17): error TS1128: Declaration or statement expected.
+src/sections/Section5_GithubBranches.tsx(115,13): error TS1109: Expression expected.
+src/sections/Section5_GithubBranches.tsx(115,15): error TS1128: Declaration or statement expected.
+src/sections/Section5_GithubBranches.tsx(174,14): error TS1128: Declaration or statement expected.
+src/sections/Section5_GithubBranches.tsx(175,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section5_GithubBranches.tsx(266,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section5_GithubBranches.tsx(267,9): error TS1128: Declaration or statement expected.
+src/sections/Section5_GithubBranches.tsx(267,15): error TS1109: Expression expected.
+src/sections/Section5_GithubBranches.tsx(267,17): error TS1161: Unterminated regular expression literal.
+src/sections/Section5_GithubBranches.tsx(268,5): error TS1128: Declaration or statement expected.
+src/sections/Section5_GithubBranches.tsx(269,1): error TS1128: Declaration or statement expected.
+src/sections/Section6_Achievements.tsx(6,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section6_Achievements.tsx(15,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section6_Achievements.tsx(25,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section6_Achievements.tsx(39,9): error TS2657: JSX expressions must have one parent element.
+src/sections/Section6_Achievements.tsx(41,84): error TS1005: '</' expected.
+src/sections/Section6_Achievements.tsx(42,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section6_Achievements.tsx(43,17): error TS1003: Identifier expected.
+src/sections/Section6_Achievements.tsx(54,1): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(54,2): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(54,3): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(54,4): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(54,5): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(54,6): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(54,7): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(56,15): error TS17002: Expected corresponding JSX closing tag for 'p'.
+src/sections/Section6_Achievements.tsx(58,78): error TS1005: ')' expected.
+src/sections/Section6_Achievements.tsx(58,78): error TS1005: '</' expected.
+src/sections/Section6_Achievements.tsx(60,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section6_Achievements.tsx(62,17): error TS2657: JSX expressions must have one parent element.
+src/sections/Section6_Achievements.tsx(70,1): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(70,2): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(70,3): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(70,4): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(70,5): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(70,6): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(70,7): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(80,26): error TS1005: '</' expected.
+src/sections/Section6_Achievements.tsx(80,26): error TS1128: Declaration or statement expected.
+src/sections/Section6_Achievements.tsx(81,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section6_Achievements.tsx(97,1): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(97,2): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(97,3): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(97,4): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(97,5): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(97,6): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(97,7): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(99,27): error TS17002: Expected corresponding JSX closing tag for 'div'.
+src/sections/Section6_Achievements.tsx(100,21): error TS1128: Declaration or statement expected.
+src/sections/Section6_Achievements.tsx(100,22): error TS1128: Declaration or statement expected.
+src/sections/Section6_Achievements.tsx(100,23): error TS1128: Declaration or statement expected.
+src/sections/Section6_Achievements.tsx(101,17): error TS1128: Declaration or statement expected.
+src/sections/Section6_Achievements.tsx(102,13): error TS1109: Expression expected.
+src/sections/Section6_Achievements.tsx(109,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section6_Achievements.tsx(113,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section6_Achievements.tsx(117,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section6_Achievements.tsx(127,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section6_Achievements.tsx(144,34): error TS17008: JSX element 'div' has no corresponding closing tag.
+src/sections/Section6_Achievements.tsx(148,29): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(165,1): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(165,2): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(165,3): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(165,4): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(165,5): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(165,6): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(165,7): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section6_Achievements.tsx(169,31): error TS17002: Expected corresponding JSX closing tag for 'p'.
+src/sections/Section6_Achievements.tsx(170,27): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/sections/Section6_Achievements.tsx(172,18): error TS1005: ',' expected.
+src/sections/Section6_Achievements.tsx(173,15): error TS17002: Expected corresponding JSX closing tag for 'motion.div'.
+src/sections/Section6_Achievements.tsx(175,9): error TS1005: ')' expected.
+src/sections/Section6_Achievements.tsx(175,15): error TS1109: Expression expected.
+src/sections/Section6_Achievements.tsx(175,17): error TS1161: Unterminated regular expression literal.
+src/sections/Section6_Achievements.tsx(176,5): error TS1128: Declaration or statement expected.
+src/sections/Section6_Achievements.tsx(177,1): error TS1128: Declaration or statement expected.
+src/sections/Section7_Experience.tsx(6,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section7_Experience.tsx(64,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section7_Experience.tsx(107,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section7_Experience.tsx(121,9): error TS2657: JSX expressions must have one parent element.
+src/sections/Section7_Experience.tsx(123,84): error TS1005: '</' expected.
+src/sections/Section7_Experience.tsx(124,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section7_Experience.tsx(125,17): error TS1003: Identifier expected.
+src/sections/Section7_Experience.tsx(134,1): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section7_Experience.tsx(134,2): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section7_Experience.tsx(134,3): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section7_Experience.tsx(134,4): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section7_Experience.tsx(134,5): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section7_Experience.tsx(134,6): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section7_Experience.tsx(134,7): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section7_Experience.tsx(137,15): error TS17002: Expected corresponding JSX closing tag for 'p'.
+src/sections/Section7_Experience.tsx(149,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section7_Experience.tsx(180,25): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section7_Experience.tsx(210,1): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section7_Experience.tsx(210,2): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section7_Experience.tsx(210,3): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section7_Experience.tsx(210,4): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section7_Experience.tsx(210,5): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section7_Experience.tsx(210,6): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section7_Experience.tsx(210,7): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section7_Experience.tsx(214,39): error TS1005: ')' expected.
+src/sections/Section7_Experience.tsx(214,39): error TS1005: '</' expected.
+src/sections/Section7_Experience.tsx(215,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section7_Experience.tsx(218,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section7_Experience.tsx(219,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section7_Experience.tsx(220,29): error TS1128: Declaration or statement expected.
+src/sections/Section7_Experience.tsx(221,25): error TS1109: Expression expected.
+src/sections/Section7_Experience.tsx(222,21): error TS1109: Expression expected.
+src/sections/Section7_Experience.tsx(223,17): error TS1128: Declaration or statement expected.
+src/sections/Section7_Experience.tsx(223,18): error TS1128: Declaration or statement expected.
+src/sections/Section7_Experience.tsx(223,19): error TS1128: Declaration or statement expected.
+src/sections/Section7_Experience.tsx(224,13): error TS1128: Declaration or statement expected.
+src/sections/Section7_Experience.tsx(226,9): error TS1109: Expression expected.
+src/sections/Section7_Experience.tsx(226,15): error TS1109: Expression expected.
+src/sections/Section7_Experience.tsx(226,17): error TS1161: Unterminated regular expression literal.
+src/sections/Section7_Experience.tsx(227,5): error TS1128: Declaration or statement expected.
+src/sections/Section7_Experience.tsx(228,1): error TS1128: Declaration or statement expected.
+src/sections/Section8_PresentTree.tsx(8,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section8_PresentTree.tsx(10,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section8_PresentTree.tsx(12,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section8_PresentTree.tsx(44,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section8_PresentTree.tsx(75,1): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(75,2): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(75,3): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(75,4): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(75,5): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(75,6): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(75,7): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(78,1): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/sections/Section8_PresentTree.tsx(80,40): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(81,5): error TS1109: Expression expected.
+src/sections/Section8_PresentTree.tsx(83,15): error TS1005: '}' expected.
+src/sections/Section8_PresentTree.tsx(85,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/sections/Section8_PresentTree.tsx(87,64): error TS1005: '}' expected.
+src/sections/Section8_PresentTree.tsx(87,64): error TS1005: '</' expected.
+src/sections/Section8_PresentTree.tsx(87,85): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/sections/Section8_PresentTree.tsx(93,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section8_PresentTree.tsx(95,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section8_PresentTree.tsx(97,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section8_PresentTree.tsx(102,9): error TS2657: JSX expressions must have one parent element.
+src/sections/Section8_PresentTree.tsx(102,225): error TS1005: '</' expected.
+src/sections/Section8_PresentTree.tsx(104,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section8_PresentTree.tsx(105,52): error TS1005: '...' expected.
+src/sections/Section8_PresentTree.tsx(106,13): error TS1003: Identifier expected.
+src/sections/Section8_PresentTree.tsx(114,1): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(114,2): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(114,3): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(114,4): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(114,5): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(114,6): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(114,7): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(119,1): error TS1185: Merge conflict marker encountered.
+src/sections/Section8_PresentTree.tsx(124,14): error TS17008: JSX element 'motion.div' has no corresponding closing tag.
+src/sections/Section8_PresentTree.tsx(143,18): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(164,1): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(164,2): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(164,3): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(164,4): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(164,5): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(164,6): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(164,7): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/sections/Section8_PresentTree.tsx(168,15): error TS1005: ')' expected.
+src/sections/Section8_PresentTree.tsx(168,17): error TS1005: ',' expected.
+src/sections/Section8_PresentTree.tsx(169,5): error TS1128: Declaration or statement expected.
+src/sections/Section8_PresentTree.tsx(170,1): error TS1128: Declaration or statement expected.
