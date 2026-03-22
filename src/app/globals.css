@@ -1,0 +1,128 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+
+  /* Neon Premium Accents */
+  --color-neon-purple: #9d4edd;
+  --color-neon-blue: #4361ee;
+  --color-neon-cyan: #4cc9f0;
+  --color-neon-green: #06d6a0;
+
+  /* Dark Theme Backgrounds */
+  --color-dark-bg: #0B0F19;
+  --color-dark-card: rgba(18, 24, 43, 0.6);
+  --color-dark-border: rgba(255, 255, 255, 0.1);
+
+  /* Keeps old nature variable names to avoid breaking existing styles temporarily, but maps them to darker/neon hues */
+  --color-nature-50: #f8fafc;
+  --color-nature-100: #e2e8f0;
+  --color-nature-200: #cbd5e1;
+  --color-nature-300: #94a3b8;
+  --color-nature-400: #64748b;
+  --color-nature-500: #06d6a0; /* Green highlight */
+  --color-nature-600: #4361ee; /* Blue highlight */
+  --color-nature-700: #9d4edd; /* Purple highlight */
+  --color-nature-800: #1e293b;
+  --color-nature-900: #0f172a;
+  --color-nature-950: #0B0F19;
+
+  /* Keeps old wood variable names to avoid breaking classes, mapping to dark blues/purples */
+  --color-wood-50: #f8fafc;
+  --color-wood-100: #e0e7ff;
+  --color-wood-200: #c7d2fe;
+  --color-wood-300: #a5b4fc;
+  --color-wood-400: #818cf8;
+  --color-wood-500: #6366f1;
+  --color-wood-600: #4f46e5;
+  --color-wood-700: #4338ca;
+  --color-wood-800: #3730a3;
+  --color-wood-900: #312e81;
+  --color-wood-950: #1e1b4b;
+}
+
+@layer base {
+  body {
+    @apply bg-[#0B0F19] text-white font-sans overflow-x-hidden selection:bg-neon-purple/30 selection:text-white antialiased;
+  }
+}
+
+@utility text-gradient {
+  background: linear-gradient(to right, var(--color-neon-purple), var(--color-neon-blue), var(--color-neon-green));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Custom scrollbar optimized for Lenis (often hidden or styled minimally) */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0f1712;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #2b584a;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #468b73;
+}
+
+/* Base animations */
+@keyframes float {
+
+  0%,
+  100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+
+  50% {
+    transform: translateY(-15px) rotate(3deg);
+  }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+.animate-float-delayed {
+  animation: float 6s ease-in-out infinite 3s;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Lenis recommended base styles */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+.lenis.lenis-scrolling iframe {
+  pointer-events: none;
+}
